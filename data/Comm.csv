@@ -1,0 +1,394 @@
+plot,species,percent_cover
+1,Baccharis pilularis,5
+1,Dirca occidentalis,5
+1,Lepechinia calycina,5
+1,Quercus agrifolia  var. agrifolia,5
+1,Quercus lobata,50
+1,Rhamnus crocea,15
+1,Ribes californicum var. californicum,5
+1,Rosa californica,5
+1,Rubus ursinus,5
+1,Sambucus mexicana,5
+1,Symphoricarpos albus var. laevigatus,15
+1,Toxicodendron diversilobum,30
+1,Umbellularia californica,15
+2,Heteromeles arbutifolia,5
+2,Lonicera hispidula var. vacillans,5
+2,Quercus agrifolia  var. agrifolia,50
+2,Rhamnus californica ssp. californica,5
+2,Rubus ursinus,15
+2,Symphoricarpos mollis,5
+2,Toxicodendron diversilobum,5
+2,Umbellularia californica,30
+3,Aesculus californica,30
+3,Baccharis pilularis,5
+3,Dirca occidentalis,5
+3,Heteromeles arbutifolia,5
+3,Holodiscus discolor,5
+3,Lonicera hispidula var. vacillans,15
+3,Mimulus aurantiacus,5
+3,Quercus agrifolia  var. agrifolia,15
+3,Quercus kelloggii,30
+3,Ribes californicum var. californicum,5
+3,Rubus ursinus,5
+3,Symphoricarpos mollis,15
+3,Toxicodendron diversilobum,15
+3,Umbellularia californica,5
+4,Adenostoma fasciculatum,50
+4,Ceanothus cuneatus var. cuneatus,15
+4,Cercocarpus betuloides var. betuloides,15
+4,Clematis lasiantha,5
+4,Heteromeles arbutifolia,5
+4,Lepechinia calycina,5
+4,Lotus scoparius,5
+4,Prunus ilicifolia ssp. ilicifolia,5
+4,Quercus agrifolia  var. agrifolia,5
+4,Quercus durata var. durata,5
+4,Ribes californicum var. californicum,5
+5,Clematis lasiantha,5
+5,Heteromeles arbutifolia,5
+5,Lonicera hispidula var. vacillans,5
+5,Mimulus aurantiacus,5
+5,Quercus agrifolia  var. agrifolia,15
+5,Quercus kelloggii,15
+5,Ribes californicum var. californicum,5
+5,Rubus ursinus,5
+5,Sambucus mexicana,5
+5,Symphoricarpos mollis,5
+5,Toxicodendron diversilobum,5
+5,Umbellularia californica,15
+6,Adenostoma fasciculatum,50
+6,Artemisia californica,5
+6,Baccharis pilularis,5
+6,Ceanothus cuneatus var. cuneatus,15
+6,Heteromeles arbutifolia,5
+6,Lepechinia calycina,5
+6,Mimulus aurantiacus,5
+6,Prunus ilicifolia ssp. ilicifolia,5
+6,Rhamnus crocea,15
+6,Ribes californicum var. californicum,5
+6,Solanum umbelliferum,5
+6,Toxicodendron diversilobum,5
+7,Adenostoma fasciculatum,15
+7,Arbutus menziesii,5
+7,Baccharis pilularis,5
+7,Ceanothus cuneatus var. cuneatus,5
+7,Clematis lasiantha,5
+7,Dirca occidentalis,5
+7,Eriodictyon californicum,15
+7,Heteromeles arbutifolia,5
+7,Mimulus aurantiacus,5
+7,Oemleria cerasiformis,5
+7,Prunus ilicifolia ssp. ilicifolia,15
+7,Rhamnus crocea,5
+9,Baccharis pilularis,5
+9,Heteromeles arbutifolia,15
+9,Lonicera hispidula var. vacillans,5
+9,Quercus agrifolia  var. agrifolia,90
+9,Quercus durata var. durata,5
+9,Quercus lobata,5
+9,Rhamnus californica ssp. californica,15
+9,Symphoricarpos mollis,5
+9,Toxicodendron diversilobum,30
+10,Adenostoma fasciculatum,70
+10,Artemisia californica,15
+10,Cercocarpus betuloides var. betuloides,15
+10,Clematis lasiantha,5
+10,Heteromeles arbutifolia,5
+10,Lotus scoparius,5
+10,Mimulus aurantiacus,15
+10,Prunus ilicifolia ssp. ilicifolia,5
+10,Quercus agrifolia  var. agrifolia,5
+11,Adenostoma fasciculatum,30
+11,Artemisia californica,5
+11,Baccharis pilularis,15
+11,Ceanothus cuneatus var. cuneatus,5
+11,Dirca occidentalis,5
+11,Heteromeles arbutifolia,5
+11,Lepechinia calycina,5
+11,Mimulus aurantiacus,15
+11,Rhamnus crocea,5
+11,Ribes californicum var. californicum,5
+11,Toxicodendron diversilobum,5
+11,Umbellularia californica,5
+12,Adenostoma fasciculatum,50
+12,Ceanothus cuneatus var. cuneatus,15
+12,Heteromeles arbutifolia,5
+12,Lepechinia calycina,5
+12,Prunus ilicifolia ssp. ilicifolia,5
+12,Quercus durata var. durata,15
+12,Rhamnus crocea,5
+13,Baccharis pilularis,5
+13,Ceanothus oliganthus var. sorediatus,5
+13,Dirca occidentalis,5
+13,Lonicera hispidula var. vacillans,5
+13,Mimulus aurantiacus,30
+13,Oemleria cerasiformis,5
+13,Rhamnus californica ssp. californica,5
+13,Rhamnus crocea,15
+13,Ribes californicum var. californicum,5
+13,Toxicodendron diversilobum,50
+14,Adenostoma fasciculatum,15
+14,Artemisia californica,15
+14,Baccharis pilularis,5
+14,Ceanothus cuneatus var. cuneatus,5
+14,Cercocarpus betuloides var. betuloides,15
+14,Dirca occidentalis,5
+14,Mimulus aurantiacus,5
+14,Toxicodendron diversilobum,30
+15,Aesculus californica,30
+15,Baccharis pilularis,15
+15,Ceanothus cuneatus var. cuneatus,5
+15,Heteromeles arbutifolia,5
+15,Lepechinia calycina,5
+15,Lonicera hispidula var. vacillans,5
+15,Mimulus aurantiacus,5
+15,Quercus lobata,5
+15,Rhamnus crocea,15
+15,Sambucus mexicana,5
+15,Solanum umbelliferum,5
+15,Symphoricarpos albus var. laevigatus,5
+15,Symphoricarpos mollis,5
+16,Adenostoma fasciculatum,30
+16,Artemisia californica,30
+16,Ceanothus cuneatus var. cuneatus,30
+16,Lepechinia calycina,5
+16,Rhamnus crocea,5
+16,Solanum umbelliferum,5
+17,Quercus agrifolia  var. agrifolia,30
+17,Quercus douglasii,30
+17,Toxicodendron diversilobum,15
+18,Adenostoma fasciculatum,70
+18,Baccharis pilularis,5
+18,Ceanothus cuneatus var. cuneatus,5
+18,Cercocarpus betuloides var. betuloides,15
+18,Dirca occidentalis,5
+18,Heteromeles arbutifolia,5
+18,Lepechinia calycina,5
+18,Prunus ilicifolia ssp. ilicifolia,5
+18,Quercus agrifolia  var. agrifolia,30
+18,Ribes californicum var. californicum,5
+18,Ribes malvaceum var. malvaceum,5
+18,Solanum umbelliferum,5
+19,Aesculus californica,30
+19,Artemisia californica,5
+19,Baccharis pilularis,5
+19,Quercus agrifolia  var. agrifolia,15
+19,Quercus lobata,30
+19,Rhamnus crocea,15
+19,Ribes californicum var. californicum,5
+19,Symphoricarpos mollis,15
+19,Toxicodendron diversilobum,15
+19,Umbellularia californica,5
+20,Acer negundo var. californicum,30
+20,Lonicera hispidula var. vacillans,5
+20,Quercus agrifolia  var. agrifolia,30
+20,Rubus ursinus,5
+20,Salix lasiolepis,5
+20,Umbellularia californica,30
+21,Acer negundo var. californicum,30
+21,Cornus sericea ssp. sericea,30
+21,Ribes californicum var. californicum,5
+21,Ribes sanguineum var. glutinosum,5
+21,Rubus parviflorus,5
+21,Salix lucida ssp. lasiandra,30
+22,Acer negundo var. californicum,5
+22,Alnus rhombifolia,5
+22,Cornus sericea ssp. sericea,5
+22,Lonicera hispidula var. vacillans,5
+22,Ribes sanguineum var. glutinosum,5
+22,Rubus parviflorus,5
+22,Salix lucida ssp. lasiandra,70
+22,Toxicodendron diversilobum,5
+23,Lonicera hispidula var. vacillans,15
+23,Quercus agrifolia  var. agrifolia,5
+23,Quercus douglasii,5
+23,Quercus lobata,15
+23,Sambucus mexicana,5
+24,Acer negundo var. californicum,30
+24,Baccharis pilularis,5
+24,Cornus sericea ssp. sericea,50
+24,Ribes divaricatum var. pubiflorum,15
+24,Ribes sanguineum var. glutinosum,5
+24,Rubus parviflorus,5
+24,Salix lucida ssp. lasiandra,15
+25,Acer negundo var. californicum,50
+25,Cornus sericea ssp. sericea,5
+25,Ribes divaricatum var. pubiflorum,15
+25,Rubus ursinus,5
+25,Salix lucida ssp. lasiandra,50
+26,Arbutus menziesii,15
+26,Baccharis pilularis,5
+26,Heteromeles arbutifolia,5
+26,Lonicera hispidula var. vacillans,15
+26,Mimulus aurantiacus,5
+26,Quercus agrifolia  var. agrifolia,15
+26,Quercus douglasii,50
+26,Quercus kelloggii,5
+26,Rosa spithamea,5
+26,Symphoricarpos mollis,15
+26,Umbellularia californica,5
+27,Baccharis pilularis,5
+27,Dirca occidentalis,5
+27,Heteromeles arbutifolia,5
+27,Lonicera hispidula var. vacillans,5
+27,Mimulus aurantiacus,5
+27,Quercus agrifolia  var. agrifolia,70
+27,Rhamnus californica ssp. californica,15
+27,Rhamnus crocea,5
+27,Ribes californicum var. californicum,5
+27,Symphoricarpos mollis,5
+27,Toxicodendron diversilobum,30
+28,Acer negundo var. californicum,5
+28,Cornus sericea ssp. sericea,30
+28,Populus balsamifera ssp. trichocarpa,5
+28,Ribes divaricatum var. pubiflorum,15
+28,Ribes sanguineum var. glutinosum,5
+28,Rubus parviflorus,5
+28,Salix lucida ssp. lasiandra,50
+30,Adenostoma fasciculatum,15
+30,Artemisia californica,5
+30,Dirca occidentalis,5
+30,Eriophyllum confertiflorum var. confertiflorum,5
+30,Heteromeles arbutifolia,5
+30,Mimulus aurantiacus,5
+30,Prunus ilicifolia ssp. ilicifolia,5
+30,Quercus agrifolia  var. agrifolia,30
+30,Rhamnus crocea,5
+30,Ribes californicum var. californicum,5
+30,Umbellularia californica,5
+31,Acer negundo var. californicum,70
+31,Cornus glabrata,5
+31,Ribes divaricatum var. pubiflorum,5
+31,Ribes sanguineum var. glutinosum,5
+31,Rosa californica,5
+31,Rubus ursinus,5
+31,Salix lucida ssp. lasiandra,15
+34,Artemisia californica,30
+34,Baccharis pilularis,5
+34,Mimulus aurantiacus,5
+34,Quercus agrifolia  var. agrifolia,5
+34,Rhamnus crocea,5
+35,Aesculus californica,70
+35,Dirca occidentalis,15
+35,Prunus ilicifolia ssp. ilicifolia,15
+35,Ribes californicum var. californicum,5
+37,Adenostoma fasciculatum,30
+37,Artemisia californica,15
+37,Baccharis pilularis,15
+37,Ceanothus cuneatus var. cuneatus,5
+37,Clematis lasiantha,5
+37,Heteromeles arbutifolia,5
+37,Mimulus aurantiacus,5
+37,Prunus ilicifolia ssp. ilicifolia,5
+37,Quercus agrifolia  var. agrifolia,5
+37,Rhamnus crocea,5
+38,Heteromeles arbutifolia,5
+38,Lonicera hispidula var. vacillans,5
+38,Quercus agrifolia  var. agrifolia,70
+38,Quercus kelloggii,5
+38,Rhamnus californica ssp. californica,5
+38,Rhamnus crocea,5
+38,Symphoricarpos mollis,5
+38,Umbellularia californica,5
+39,Adenostoma fasciculatum,70
+39,Heteromeles arbutifolia,5
+39,Prunus ilicifolia ssp. ilicifolia,15
+39,Rhamnus crocea,5
+39,Sambucus mexicana,5
+39,Toxicodendron diversilobum,5
+40,Aesculus californica,15
+40,Baccharis pilularis,5
+40,Heteromeles arbutifolia,5
+40,Lonicera hispidula var. vacillans,5
+40,Quercus agrifolia  var. agrifolia,70
+40,Rhamnus californica ssp. californica,5
+40,Ribes californicum var. californicum,5
+40,Rosa californica,5
+40,Rubus ursinus,30
+40,Symphoricarpos albus var. laevigatus,5
+40,Toxicodendron diversilobum,15
+40,Umbellularia californica,5
+41,Arbutus menziesii,5
+41,Artemisia californica,15
+41,Baccharis pilularis,5
+41,Ceanothus cuneatus var. cuneatus,5
+41,Lonicera hispidula var. vacillans,5
+41,Mimulus aurantiacus,5
+41,Quercus agrifolia  var. agrifolia,30
+41,Quercus douglasii,30
+41,Quercus durata var. durata,5
+41,Quercus lobata,5
+41,Rhamnus crocea,15
+41,Toxicodendron diversilobum,5
+41,Umbellularia californica,5
+42,Baccharis pilularis,5
+42,Heteromeles arbutifolia,5
+42,Lonicera hispidula var. vacillans,5
+42,Quercus agrifolia  var. agrifolia,30
+42,Quercus kelloggii,15
+42,Quercus lobata,15
+42,Rubus ursinus,5
+42,Symphoricarpos albus var. laevigatus,5
+42,Symphoricarpos mollis,5
+43,Baccharis pilularis,5
+43,Heteromeles arbutifolia,15
+43,Lonicera hispidula var. vacillans,5
+43,Oemleria cerasiformis,5
+43,Quercus agrifolia  var. agrifolia,50
+43,Quercus douglasii,5
+43,Rubus ursinus,15
+43,Umbellularia californica,5
+45,Acer macrophyllum,5
+45,Alnus rhombifolia,30
+45,Arbutus menziesii,5
+45,Baccharis pilularis,5
+45,Holodiscus discolor,15
+45,Lonicera hispidula var. vacillans,5
+45,Pseudotsuga menziesii var. menziesii,5
+45,Quercus agrifolia  var. agrifolia,30
+45,Rhamnus californica ssp. californica,5
+45,Rubus ursinus,5
+45,Sequoia sempervirens,5
+45,Symphoricarpos albus var. laevigatus,5
+45,Umbellularia californica,15
+46,Mimulus aurantiacus,5
+46,Symphoricarpos albus var. laevigatus,5
+46,Symphoricarpos mollis,5
+47,Acer macrophyllum,5
+47,Aesculus californica,15
+47,Alnus rhombifolia,15
+47,Baccharis pilularis,5
+47,Corylus cornuta var. californica,5
+47,Juglans californica var. hindsii,5
+47,Lonicera hispidula var. vacillans,5
+47,Rubus ursinus,5
+47,Salix lucida ssp. lasiandra,15
+47,Symphoricarpos albus var. laevigatus,5
+47,Umbellularia californica,50
+48,Heteromeles arbutifolia,5
+48,Holodiscus discolor,50
+48,Prunus ilicifolia ssp. ilicifolia,5
+48,Quercus agrifolia  var. agrifolia,15
+48,Rhamnus crocea,5
+48,Ribes californicum var. californicum,5
+48,Symphoricarpos mollis,15
+48,Umbellularia californica,5
+49,Adenostoma fasciculatum,15
+49,Artemisia californica,50
+49,Baccharis pilularis,5
+49,Ceanothus cuneatus var. cuneatus,5
+49,Eriodictyon californicum,5
+49,Mimulus aurantiacus,15
+49,Prunus ilicifolia ssp. ilicifolia,5
+49,Quercus agrifolia  var. agrifolia,5
+49,Rhamnus crocea,5
+49,Ribes californicum var. californicum,5
+49,Toxicodendron diversilobum,5
+50,Amelanchier utahensis,30
+50,Cercocarpus betuloides var. betuloides,5
+50,Oemleria cerasiformis,5
+50,Prunus ilicifolia ssp. ilicifolia,5
+50,Quercus agrifolia  var. agrifolia,5
+50,Sambucus mexicana,5
+50,Umbellularia californica,5

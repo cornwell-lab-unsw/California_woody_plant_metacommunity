@@ -1,0 +1,14 @@
+Matrix,Entry,Variable,Unit,Description
+Enviro,plot,plot identifier,arbitrary,see Cornwell and Ackerly (2009)
+Enviro,insolation,"potential diurnal insolation; cumulative measure of the amount of sunlight received by each plot through the year.  calculated using solar tracking software.  essentially this distinguishes, north and south facing slopes as well as valleys versus ridge tops", MJ m–2 day–1,"Methods described in detail in Hetrick, W. A., Rich, P. M., Barnes, F. J., & Weiss, S. B. (1993). GIS-based solar radiation flux models. (Vol. 3, pp. 132-132). AMERICAN SOC PHOTOGRAMMETRY & REMOTE SENSING"
+Enviro,elevation,elevation above sea level,m,taken from a digital elevation map
+Traits,species,species,,"taxonomy follows Hickman, James C. ""The Jepson Manual."" (1993): 1400."
+Traits,geom_mean_sla,geometric mean of specific leaf area measurements ,mm^2 / mg,Petiole not included
+Traits,arth_mean_sla,arithmetic mean of specific leaf area measurments,mm^2 / mg,Petiole not included
+Traits,n,number of samples in the species mean,,Trait measurements were taken for each species in each plot that it occurred so common species were sampled more often compared to rare ones
+Space,plot,plot identifier,arbitrary,see Cornwell and Ackerly (2009)
+Space,lat,latitude,decimal degrees,WGS1984
+Space,long,longitude,decimal degrees,WGS1984
+Comm,plot,plot identifier,arbitrary,see Cornwell and Ackerly (2009)
+Comm,species,species,,"taxonomy follows Hickman, James C. ""The Jepson Manual."" (1993): 1400."
+Comm,percent.cover,percent cover of each species,percent of ground area,total percentage of the plot covered by leaves or stems of the species
